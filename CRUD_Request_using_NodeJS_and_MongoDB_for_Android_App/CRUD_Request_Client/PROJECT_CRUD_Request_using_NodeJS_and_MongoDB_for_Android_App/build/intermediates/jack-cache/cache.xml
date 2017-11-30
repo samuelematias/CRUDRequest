@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/samuelmataraso/.android/build-cache/21cb8471d7006fef6756a3f47e4f27b2dff8413e/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-4af2ec7e9e45016467f127e5ba4292730ad04af6.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.android/build-cache/d0b70b8c2fb4b47f7a5c452048a4a31d7df88370/output/jars/libs/internal_impl-24.2.1.jar"
+        revision="26.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-4cef472f5531e8a003a90f7fb3174415f64703ee.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        revision="26.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-24.2.1-dcb281bffffd2b8068689994ab96a3263a43f1a8.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.android/build-cache/49d1db4045be4c15ee349723458fb2c50b14d31c/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-506e91bfa70acc392effa593adb360e2d7d1a65a.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.android/build-cache/8ba81d85a0149ce770a535a9f22f050e56c90212/output/jars/libs/internal_impl-24.2.1.jar"
+        revision="26.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-5d8963333e13860d47d3e2b77ca1b016e1197117.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.android/build-cache/f62b6cab4133ed79a57a5f6813f6f9239c12e697/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-8aefce60ddbf4f7fa7afcba8fa520f79908144a4.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.android/build-cache/8ba81d85a0149ce770a535a9f22f050e56c90212/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-d53222fa76418e5bfc4f5cc872e621f72af2e290.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        revision="26.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okhttp-3.3.0-8dc98c153453c2ab772aa3fb12296099e626c2ef.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.android/build-cache/49d1db4045be4c15ee349723458fb2c50b14d31c/output/jars/libs/internal_impl-24.2.1.jar"
+        revision="26.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-192ef246bd7288b209030464de96ac2f253c720c.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.0/42bfaf64c94f3848ebf5cf1c2ea4ec9d1b3ac6c8/rxjava-1.2.0.jar"
+        revision="26.0.1"
+        sha1="42bfaf64c94f3848ebf5cf1c2ea4ec9d1b3ac6c8">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/rxjava-1.2.0-56a3fafd63a846a282eb03952561449bfa1151ad.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.android/build-cache/3e8f78e5116d3260ac2fdb974d23b8ffa96e5934/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-fb70c42a59f213d235b6f50515e805ab54d53ad8.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        revision="26.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/retrofit-2.1.0-9a50dc7e1a8f7639b147943d0a02e9bff5fdfeef.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        revision="26.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/converter-gson-2.1.0-8af7a7c2ee2dc8b40688d26b1202fc0f2ed787ee.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.android/build-cache/600aa8fb4eeac0f19401e3e10d4a41f7551000d1/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-480d781abecdc860f4f6e55acbf3fad81c88f262.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.android/build-cache/0525af9fe2eb607e5cd13ad2886077ccede382d4/output/jars/libs/internal_impl-24.2.1.jar"
+        revision="26.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-e70c9f3cc4c532950b0945a836ce42ae7d8220af.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.android/build-cache/5cc486c0b6e22c26a847a64b23a315db1e609ed3/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-6a7e74aec0410ce4e9e2c71cc27407bc5bbcaa79.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/Library/Android/sdk/platforms/android-24/optional/org.apache.http.legacy.jar"
+        revision="26.0.1"
+        sha1="fb7023e781abb70ed1b0442eb611fbed295cae84">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-b07693202314611ba151a085f341ef264f00cabb.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        revision="26.0.1"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/adapter-rxjava-2.1.0-dae7ca8ae3f4c15cb72fe4db321924f360953b28.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.android/build-cache/3da1148bfd232b3536577dd4b11e15b058fc8bc6/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-27b7dbd9e77ed820ba3b1c91413975fc2778b87c.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.android/build-cache/d0b70b8c2fb4b47f7a5c452048a4a31d7df88370/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-2fe91bd86faee53a70c093d0747ab93fede827f5.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.android/build-cache/55801ba0d36bdce7cab23f950bfa91e3191c3c58/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-df557841812a3fec6525a9386dde6d3d02cac2cd.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.android/build-cache/0525af9fe2eb607e5cd13ad2886077ccede382d4/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-644d6d2a791ffd8e42840252a724c7979eba48e0.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.android/build-cache/1a9d374509984e620cf2f5c93256ac6878193593/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-7a3bd467a96c58b283bafa4a874c53098324a70f.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/gson-2.7-7fa3e127a9cd1c941d75c3a4c5b41411c28a09fb.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/Library/Android/sdk/platforms/android-24/android.jar"
+        revision="26.0.1"
+        sha1="d49cc0972df7adf495d3ad3d0cf71c0ec517ace4">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-ae5dbf2291dc5c36e9aa3208f3ed6526d5745a10.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.android/build-cache/1b7e94ad5fc8ed23a48c727c7c0d34a51296a13e/output/jars/classes.jar"
+        revision="26.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-da8f470173c3625abb1dd2b7429aac27b8325fdb.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.android/build-cache/21cb8471d7006fef6756a3f47e4f27b2dff8413e/output/jars/libs/internal_impl-24.2.1.jar"
+        revision="26.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-468ba46035248df14460f7e729bbe563adbcf264.jar" />
+    </item>
+    <item
+        jar="/Users/samuelmataraso/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        revision="26.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/CRUD_Request_Client/PROJECT_CRUD_Request_using_NodeJS_and_MongoDB_for_Android_App/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okio-1.8.0-6f75914a456f0a11ec87f2071ee96bf1b5be40d4.jar" />
+    </item>
+
+</items>
